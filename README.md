@@ -28,7 +28,7 @@ The first two phases of the inclass assignment is the same as the previous incla
 
 #### phase 3. [todo]
 8. inside the main method in Main class, use **one** ```System.out.print``` (not ```System.out.println```) to print the following text:
-![alt text](https://github.com/COSC111-2019Winter/assignments/blob/master/assignment07_01.png "The download button in GitHub repo page")
+![alt text](https://github.com/COSC111-2019Winter/assignments/blob/master/assignment07_01.PNG "The download button in GitHub repo page")
 
 #### phase 4. upload the new ```.java``` files (keep the original filenames; do not change the filenames)
 

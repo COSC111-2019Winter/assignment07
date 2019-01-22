@@ -38,6 +38,6 @@ That's it!
 ---
 ### Grading
 Each class (.java) worths 0.25 points. In total, it's 1.0 points.
-If the format of ```.java``` file is different from the auto-indent format BlueJ producdes, the ```.java``` file will be rejected as a submission (i.e., point 0 unless you resubmit and will suffer late penalty.)
+If the format of ```.java``` file is different from the **auto-indent format** BlueJ producdes, the ```.java``` file will be rejected as a submission (i.e., point 0 unless you resubmit and will suffer late penalty.)
 
 Siyuan

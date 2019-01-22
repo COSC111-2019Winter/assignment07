@@ -27,11 +27,7 @@ The first two phases of the inclass assignment is the same as the previous incla
 7. open BlueJ project again, and open the project if it's not opened (by clicking Project button in the menu and "open project", then find your BlueJ project folder, "click select folder"), you should see the new classes you just added.
 
 #### phase 3. [todo]
-8. 
-
-2. fix the error (one error for each Java file) 
-
-3. add a comment in the file to explain what the errors are and how you fix them
+8. [todo]
 
 #### phase 4. upload the new ```.java``` files (keep the original filenames; do not change the filenames)
 

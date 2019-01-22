@@ -35,11 +35,11 @@ Please use escape sequences to print tabs, new lines, and double quotations to m
 
 9. **Task 2**: Exercise 2-3 in Chapter 2, Think Java. I *modified* this exercise to suit our class's progress.
 
-The point of this exercise is to (1) use some of the arithmetic operators, and (2) start thinking about compound entities (like time of day) that are represented with multiple values.
+   The point of this exercise is to (1) use some of the arithmetic operators, and (2) start thinking about compound entities (like time of day) that are represented with multiple values.
 
-(1) Create a new class in your BlueJ project, called ```Time.java```. Remove everything automatically-generated in the new ```.java``` file. Write your own ```Time``` class, just like the ```Hello``` class we did in the previous assignments.
-(2) Following the example program in "Printing Variables" [section 2.4](http://greenteapress.com/thinkjava6/html/thinkjava6003.html#sec22), create variables named hour, minute, and second. Assign values that are 11:02:03, that is: hour is 11, minute is 2, and second is 3.
-(3) Make the program calculate and display the number of seconds since midnight.
+   1. Create a new class in your BlueJ project, called ```Time.java```. Remove everything automatically-generated in the new ```.java``` file. Write your own ```Time``` class, just like the ```Hello``` class we did in the previous assignments.
+   2. Following the example program in "Printing Variables" [section 2.4](http://greenteapress.com/thinkjava6/html/thinkjava6003.html#sec22), create variables named hour, minute, and second. Assign values that are 11:02:03, that is: hour is 11, minute is 2, and second is 3.
+   3. Make the program calculate and display the number of seconds since midnight.
 
 #### phase 4. upload the new ```.java``` files (keep the original filenames; do not change the filenames)
 Upload the Time.java and Main.java you wrote in this assignment to this repository.
@@ -48,10 +48,16 @@ Upload the Time.java and Main.java you wrote in this assignment to this reposito
 
 ---
 ### Grading
-Each class (.java) worths 0.25 points. In total, it's 1.0 points.
-If the format of ```.java``` file is different from the **auto-indent format** BlueJ producdes, the ```.java``` file will be rejected as a submission (i.e., point 0 unless you resubmit and will suffer late penalty.)
+Each class (.java) worths 0.5 points. In total, it's 1.0 points.
 
-* convention 1: when a variable name contains more than one word, like firstName, capitalize the first letter of each word except the first.
+* for each bug/error I found, you will lose -0.2 points
+* if the file cannot compile, the .java file can at most have 0.2 points
+* if the file's output is different from the expected output, the .java file can at most have 0.3 points
+
+You code needs to stick to the following conventions. Otherwise, the file is going to be rejected without grading (i.e., point 0 unless you resubmit and will suffer late penalty.)
+
+* convention 1: the format of ```.java``` file should be the same as the **auto-indent format** BlueJ producdes
+* convention 2: when a variable name contains more than one word, like firstName, capitalize the first letter of each word except the first
 
 ---
 

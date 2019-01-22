@@ -27,7 +27,8 @@ The first two phases of the inclass assignment is the same as the previous incla
 7. open BlueJ project again, and open the project if it's not opened (by clicking Project button in the menu and "open project", then find your BlueJ project folder, "click select folder"), you should see the new classes you just added.
 
 #### phase 3. [todo]
-8. [todo]
+8. inside the main method in Main class, use **one** ```System.out.print``` (not ```System.out.println```) to print the following text:
+![alt text](https://github.com/COSC111-2019Winter/assignments/blob/master/assignment07_01.png "The download button in GitHub repo page")
 
 #### phase 4. upload the new ```.java``` files (keep the original filenames; do not change the filenames)
 

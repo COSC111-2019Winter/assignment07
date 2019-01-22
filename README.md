@@ -31,7 +31,7 @@ The first two phases of the inclass assignment is the same as the previous incla
 
 ![alt text](https://github.com/COSC111-2019Winter/assignments/blob/master/assignment07_01.PNG "The download button in GitHub repo page")
 
-Please use escape sequences to print tabs, new lines, and double quotations to make your output exactly the same as the above picture.
+Please use **escape sequences to print tabs**, new lines, and double quotations to make your output exactly the same as the above picture.
 
 9. **Task 2**: Exercise 2-3 in Chapter 2, Think Java. I *modified* this exercise to suit our class's progress.
 

@@ -14,7 +14,7 @@ The first two phases of the inclass assignment is the same as the previous incla
 
 2. right-click (in Mac, maybe ctrl-leftclick), and you will see unzip option (or ```uncompress``` option or ```extract all...```), click that option, and uncompress the ```assignment07-master.zip``` file.
 
-3. after you uncompress the zip file, there should be a folder with all the java files. The folder name should be ```assignment07-master```.
+3. after you uncompress the zip file, there should be a folder with all the java files. The folder name should be ```assignment07-master```. In this assignment, we only have one .java file, which is ```Main.java```
 
 
 #### phase 2. set up BlueJ project

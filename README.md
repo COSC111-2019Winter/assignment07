@@ -40,4 +40,6 @@ That's it!
 Each class (.java) worths 0.25 points. In total, it's 1.0 points.
 If the format of ```.java``` file is different from the **auto-indent format** BlueJ producdes, the ```.java``` file will be rejected as a submission (i.e., point 0 unless you resubmit and will suffer late penalty.)
 
+* convention 1: when a variable name contains more than one word, like firstName, capitalize the first letter of each word except the first.
+
 Siyuan

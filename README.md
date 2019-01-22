@@ -35,6 +35,7 @@ The first two phases of the inclass assignment is the same as the previous incla
 
 That's it!
 
+---
 ### Grading
 Each class (.java) worths 0.25 points. In total, it's 1.0 points.
 

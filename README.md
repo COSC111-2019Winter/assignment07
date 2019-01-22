@@ -37,8 +37,8 @@ Please use escape sequences to print tabs, new lines, and double quotations to m
 
    The point of this exercise is to (1) use some of the arithmetic operators, and (2) start thinking about compound entities (like time of day) that are represented with multiple values.
 
-   1. Create a new class in your BlueJ project, called ```Time.java```. Remove everything automatically-generated in the new ```.java``` file. Write your own ```Time``` class, just like the ```Hello``` class we did in the previous assignments.
-   2. Following the example program in "Printing Variables" [section 2.4](http://greenteapress.com/thinkjava6/html/thinkjava6003.html#sec22), create variables named hour, minute, and second. Assign values that are 11:02:03, that is: hour is 11, minute is 2, and second is 3.
+   1. Create a new class in your BlueJ project, called ```Time.java```. Remove everything automatically-generated in the new ```.java``` file. Write your own ```Time``` class, just like the ```Hello``` class we did in the previous assignments. Add a main method just like the one in the Hello class.
+   2. Following the example program in "Printing Variables" [section 2.4](http://greenteapress.com/thinkjava6/html/thinkjava6003.html#sec22), inside the main method, create variables named hour, minute, and second. Assign values that are 11:02:03, that is: hour is 11, minute is 2, and second is 3.
    3. Make the program calculate and display the number of seconds since midnight.
 
 #### phase 4. upload the new ```.java``` files (keep the original filenames; do not change the filenames)

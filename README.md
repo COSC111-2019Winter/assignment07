@@ -57,7 +57,7 @@ Each class (.java) worths 0.5 points. In total, it's 1.0 points.
 You code needs to stick to the following conventions. Otherwise, the file is going to be rejected without grading (i.e., point 0 unless you resubmit and will suffer late penalty.)
 
 * convention 1: every statement should be followed by a newline. Every "{", "}" that is after class name, method name, ```for```, ```while```, ```if```, should be followed by a newline.
-* convention 2: the format of ```.java``` file should be the same as the **auto-indent format** BlueJ producdes.
+* convention 2: the format of ```.java``` file should be the same as the **auto-indent format** BlueJ produces.
 * convention 3: when a variable name contains more than one word, like firstName, capitalize the first letter of each word except the first.
 
 
